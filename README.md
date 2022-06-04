@@ -23,9 +23,7 @@
   <br/>
 <br/>
 <br/>
-
 <a href="https://github.com/baibhav-tiwari/github-readme-activity-graph"><img alt="baibhav-tiwari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=baibhav-tiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
