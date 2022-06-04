@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)<br>
 ### 🛠 &nbsp;STATS
 ![](https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&theme=blue-green)
+![](https://starchart.cc/baibhav-tiwari/https://github.com/baibhav-tiwari/KRYPT.svg)
 
 ![](https://img.shields.io/github/followers/baibhav-tiwari.svg?style=social&label=Follow&maxAge=2592000)
 
