@@ -17,3 +17,6 @@
 ### 🛠 &nbsp;STATS
 ![](https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&theme=blue-green)
 
+![](https://img.shields.io/github/followers/baibhav-tiwari.svg?style=social&label=Follow&maxAge=2592000)
+
+
