@@ -15,9 +15,20 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)<br>
 ### 🛠 &nbsp;STATS
-![](https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&theme=blue-green)
-![](https://starchart.cc/baibhav-tiwari/https://github.com/baibhav-tiwari/KRYPT.svg)
 
 ![](https://img.shields.io/github/followers/baibhav-tiwari.svg?style=social&label=Follow&maxAge=2592000)
 
+  <a href="https://github.com/baibhav-tiwari/github-readme-stats"><img alt="baibhav-tiwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/baibhav-tiwari/github-readme-stats"><img alt="baibhav-tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibhav-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/baibhav-tiwari/github-readme-activity-graph"><img alt="baibhav-tiwari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=baibhav-tiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
