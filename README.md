@@ -1,3 +1,5 @@
+<div><img src="https://github.com/baibhav-tiwari/baibhav-tiwari/blob/main/boy.png" align=right width=200px></div>
+
 ### 🛠 &nbsp;TECH STACK-
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
