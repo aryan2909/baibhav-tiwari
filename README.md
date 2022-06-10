@@ -1,5 +1,4 @@
 <div><img src="https://github.com/baibhav-tiwari/baibhav-tiwari/blob/main/top.png" align=top></div>
-<div><img src="" align=right width=700px></div>
 
 ### 🛠 &nbsp;TECH STACK-
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
