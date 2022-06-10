@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-###  📍 &nbsp; GITHUB STATS-
+### 🛰️ &nbsp; GITHUB STATS-
   <a href="https://github.com/baibhav-tiwari/github-readme-stats"><img alt="baibhav-tiwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <a href="https://github.com/baibhav-tiwari/github-readme-stats"><img alt="baibhav-tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibhav-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
