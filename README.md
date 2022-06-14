@@ -20,8 +20,8 @@
 ### 🛰️&nbsp; GITHUB STATS-
  <div [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baibhav-tiwari&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 </div>
-  <a href="https://github.com/baibhav-tiwari/github-readme-stats"align=left><img alt="baibhav-tiwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <a href="https://github.com/baibhav-tiwari/github-readme-stats" align=right><img alt="baibhav-tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibhav-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <div href="https://github.com/baibhav-tiwari/github-readme-stats"align=left><img alt="baibhav-tiwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baibhav-tiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></div>
+  <div href="https://github.com/baibhav-tiwari/github-readme-stats" align=right><img alt="baibhav-tiwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baibhav-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></div>
   <br/>
 <a href="https://github.com/baibhav-tiwari/github-readme-activity-graph"><img alt="baibhav-tiwari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=baibhav-tiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <div href="https://git.io/streak-stats" align=center ><img src="https://github-readme-streak-stats.herokuapp.com?user=baibhav-tiwari&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></div>
