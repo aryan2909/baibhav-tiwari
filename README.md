@@ -1,6 +1,6 @@
 <div><img src="https://github.com/baibhav-tiwari/baibhav-tiwari/blob/main/top.png" align=top></div>
 
-<h3 align="left">TECH STACK:</h3>
+<h3 align="left"><u>Tech Stack:</u></h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
 </p>
 
-<h3 align="left">TOOLS:</h3>
+<U><h3 align="left"><u>Tools:</u></h3></u>
 <p align="center">
 <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">STATISTICS:</h3>
+<h3 align="left"><u>Statistics:</u></h3>
 <br><br>
 
 
@@ -64,4 +64,4 @@
 </div>
 
 
-<h5><u>pov: universe is cool🌌 </u></h5>
+<h5><u color="white">pov: universe is cool🌌 </u></h5>
