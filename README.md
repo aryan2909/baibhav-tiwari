@@ -1,6 +1,13 @@
 <div align=center><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" ></div>
 
-<h3 align="left"><u>👨‍🚀 Tech Stack:</u></h3>
+<h3 align="left"><u>🪐About:</u></h3>
+-> 👨‍💻Learning Data Structures and Algorithm.<br>
+-> 🎓I'm currently a Computer SCience undergrad<br>
+-> 🔗Interested in learning more about Web3 and blockchain.<br>
+-> ✉️You can shoot me an email at <a href="mailTo:baibhavtiwari37@gmail.com">GMAIL</a>.<br>
+-> 📄Please have a look at my <a href="https://drive.google.com/file/d/1n35mFOxohhhv_sT88nibvj3bGTahbXc1/view">Resume</a>.
+
+<h3 align="left"><u>👨‍🚀Tech Stack:</u></h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-JavaScript-233233?style=flat-square&logo=javascript&logoColor=23F7DF1E">
 <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54">
@@ -15,7 +22,7 @@
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
 </p>
 
-<U><h3 align="left"><u>🛰️ Tools:</u></h3></u>
+<U><h3 align="left"><u>🛰️Tools:</u></h3></u>
 <p align="center">
 <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
@@ -26,7 +33,7 @@
 </p>
 
 
-<h3 align="left"><u>🌌 Statistics:</u></h3>
+<h3 align="left"><u>🌌Statistics:</u></h3>
 <div align="center">
 <table align="center">
   <tr>
@@ -60,5 +67,3 @@
 
 </div>
 
-
-<h5><u color="white">pov: universe is cool🌌 </u></h5>
