@@ -1,4 +1,4 @@
-<div><img src="https://github.com/baibhav-tiwari/baibhav-tiwari/blob/main/top.png" align=top></div>
+<div align=center><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" ></div>
 
 <h3 align="left"><u>👨‍🚀 Tech Stack:</u></h3>
 <p align="center"> 
