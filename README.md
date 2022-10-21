@@ -4,7 +4,7 @@
 -> 👨‍💻Learning Data Structures and Algorithm.<br>
 -> 🎓I'm currently a Computer SCience undergrad<br>
 -> 🔗Interested in learning more about Web3 and blockchain.<br>
--> ✉️You can shoot me an email at <a href="mailTo:baibhavtiwari37@gmail.com">GMAIL</a>.<br>
+-> ✉️You can shoot me an email  <a href="mailTo:baibhavtiwari37@gmail.com">Here</a>.<br>
 -> 📄Please have a look at my <a href="https://drive.google.com/file/d/1n35mFOxohhhv_sT88nibvj3bGTahbXc1/view">Resume</a>.
 
 <h3 align="left"><u>👨‍🚀Tech Stack:</u></h3>
