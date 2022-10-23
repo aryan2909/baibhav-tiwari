@@ -1,6 +1,9 @@
 <div align=center><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" ></div>
 
 <h3 align="left"><u>🪐About:</u></h3>
+<p>Currently pursuing a bachelor's degree in Computer Science and will be graduating in 2024.
+Over the course of my studies, I have developed strong Passion for Devlopment and Programming skills,
+enjoy collaboration and teamwork, and have a variety of interests that I use to maximize my potential.<p>
 -> 👨‍💻Learning Data Structures and Algorithm.<br>
 -> 🎓I'm currently a Computer Science undergrad<br>
 -> 🔗Interested in learning more about Web3 and blockchain.<br>
